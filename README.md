@@ -1,5 +1,1 @@
-- 👋 Hi, I’m [@loganwoolf](https://loganwoolf.github.io)
-- 👀 I am a full stack web developer.
-- 🚈 I work with JS, CSS, Express, Postgres, and React.
-- 💎 I have some experience with Ruby and Rails.
-- 📫 You may reach me on Twitter [@logan__woolf](https://twitter.com/logan__woolf)
+
